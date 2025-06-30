@@ -1,4 +1,4 @@
-package org.example;
+package br.com.aplicando.solid;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
