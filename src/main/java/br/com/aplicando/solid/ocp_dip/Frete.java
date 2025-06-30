@@ -1,6 +1,7 @@
 package br.com.aplicando.solid.ocp_dip;
 
-public class Frete {
+public class Frete implements ServicoDeEntrega {
+    @Override
     public double para(String cidade) {
         if("SAO PAULO".equals(cidade.toUpperCase())) {
             return 15;
