@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5331b08-4c07-407a-9c4d-a09121c9da6c" name="Changes" comment="SRP, melhorias na solução.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f5331b08-4c07-407a-9c4d-a09121c9da6c" name="Changes" comment="SRP, melhorias na solução." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +39,7 @@
     "Maven.java-aplicando-solid [clean:clean].executor": "Run",
     "Maven.java-aplicando-solid [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Dev - Projetos - Software/Projetos de estudo/api-loteria/java-aplicando-solid",

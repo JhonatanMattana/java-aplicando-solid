@@ -1,4 +1,4 @@
-package br.com.aplicando.solid.ocp;
+package br.com.aplicando.solid.acoplamento;
 
 public interface AcaoAposGerarNota {
     void executa(NotaFiscal notaFiscal);

@@ -1,4 +1,4 @@
-package br.com.aplicando.solid.ocp;
+package br.com.aplicando.solid.acoplamento;
 
 import java.util.List;
 
