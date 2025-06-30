@@ -1,7 +1,9 @@
 package br.com.aplicando.solid.ocp;
 
-public class NotaFiscalDao {
-    public void persiste(NotaFiscal nf) {
-        System.out.println("salva nf no banco");
+public class NotaFiscalDao implements AcaoAposGerarNota {
+
+    @Override
+    public void executa(NotaFiscal notaFiscal) {
+        System.out.println("salva NF no banco");
     }
 }
