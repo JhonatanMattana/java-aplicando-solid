@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5331b08-4c07-407a-9c4d-a09121c9da6c" name="Changes" comment="OCP e DIP: Problema">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/ocp_dip/ServicoDeEntrega.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/ocp_dip/TabelaDePreco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/ocp_dip/TabelaDePrecoDiferenciada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/ocp_dip/executeOcpDip.java" afterDir="false" />
+    <list default="true" id="f5331b08-4c07-407a-9c4d-a09121c9da6c" name="Changes" comment="OCP e DIP: Solução">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/encapsulamento/Boleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/encapsulamento/Fatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/encapsulamento/MeioDePagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/encapsulamento/Pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/encapsulamento/ProcessadorDeBoletos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/ocp_dip/CalculadoraDePrecos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/ocp_dip/CalculadoraDePrecos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/ocp_dip/Frete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/ocp_dip/Frete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/ocp_dip/TabelaDePrecoPadrao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/aplicando/solid/ocp_dip/TabelaDePrecoPadrao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -44,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "Application.executeOcpDip.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.java-aplicando-solid [clean:clean].executor": "Run",
     "Maven.java-aplicando-solid [install].executor": "Run",
@@ -154,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751324743676</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="OCP e DIP: Solução">
+      <option name="closed" value="true" />
+      <created>1751325036929</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751325036929</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +171,7 @@
     <MESSAGE value="SRP, melhorias na solução." />
     <MESSAGE value="correção" />
     <MESSAGE value="OCP e DIP: Problema" />
-    <option name="LAST_COMMIT_MESSAGE" value="OCP e DIP: Problema" />
+    <MESSAGE value="OCP e DIP: Solução" />
+    <option name="LAST_COMMIT_MESSAGE" value="OCP e DIP: Solução" />
   </component>
 </project>
